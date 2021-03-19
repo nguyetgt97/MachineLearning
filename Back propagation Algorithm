@@ -1,0 +1,4 @@
+BackPropagation Algorithm là một thuật ngữ Neural Network for tối thiểu hóa cost function
+Chúng ta muốn tối thiểu hóa cost function J sử dụng bộ thông số tối ưu trong theta.
+
+Chúng ta có tranning set 
